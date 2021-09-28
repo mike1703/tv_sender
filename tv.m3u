@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:0,ARD
+http://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:1,ARD ONE
+http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+#EXTINF:2,ARD Alpha
+http://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:3,ARD Tagesschau
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:4,ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8 
+#EXTINF:5,ZDF info
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:6,ZDF neo
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:10,PHOENIX
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:13,BR Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:14,BR Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:15,HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:16,SR
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:17,SWR
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+#EXTINF:18,NDR
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:20,WDR
+http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
+#EXTINF:22,ARTE DE
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:23,3Sat
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:24,kika
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
+#EXTINF:25,Niederbayern TV - Landshut
+https://stream03.stream.welocal.world/stream/nla/ngrp:nla.stream_all/playlist.m3u8 
+#EXTINF:26,ORF-1
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:25,ORF-2
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:27,ORF-3
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:28,ORF-Sport
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
