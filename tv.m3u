@@ -36,7 +36,7 @@ http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:24,kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8 
 #EXTINF:25,Niederbayern TV - Landshut
-https://stream03.stream.welocal.world/stream/nla/ngrp:nla.stream_all/playlist.m3u8 
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/playlist.m3u8
 #EXTINF:26,ORF-1
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
 #EXTINF:25,ORF-2
