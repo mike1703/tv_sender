@@ -24,7 +24,7 @@ https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 #EXTINF:16,SR
 http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
 #EXTINF:17,SWR
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:18,NDR
 http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 #EXTINF:20,WDR
